@@ -13,6 +13,6 @@ int main()
     differens=varde1-varde2;
     cout<<endl<<varde1<<" + "<<varde2<<" = "<<summa<<endl;
     cout<<endl<<varde1<<" - "<<varde2<<" = "<<differens<<endl;
-    
+    cout<< "♛ ♕ ♚ ♔ ♜ ♖ ♝ ♗ ♞ ♘ ♟ ♙"
     system("PAUSE");
 }
